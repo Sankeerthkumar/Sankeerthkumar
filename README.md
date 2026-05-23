@@ -73,48 +73,6 @@ I'm a **Senior Java Backend Developer** with **6+ years of experience** building
 
 ---
 
-## 💼 Work Experience
-
-### 🏦 Bean Infosystems — Senior Software Engineer *(Jun 2025 – Present)*
-**Client: Citi Bank | Irving, TX**
-- Owned design and development of Java 17 Spring Boot microservices for Citi retail banking and card processing workloads
-- Implemented event-driven transaction pipelines with Kafka compacted topics and consumer groups for posting, risk, and notification services
-- Introduced Redis-backed caching and API rate limiting via Spring Cloud Gateway to keep customer-facing APIs under **120ms at peak**
-- Containerized core services with Docker and deployed across **Azure Kubernetes Service (AKS)** with zero-downtime blue-green releases via Jenkins
-- Integrated AI-assisted credit scoring workflows with **Azure OpenAI**, handling retries, idempotency, and observability
-
-### 🏥 Mindgraph — Software Engineer Intern *(Jan 2025 – May 2025)*
-**Client: MD Anderson Cancer Center | Houston, TX**
-- Developed Java Spring Boot REST APIs for patient and scheduling workflows within MD Anderson's enterprise healthcare platform
-- Modernized legacy Java modules into Spring Boot services aligned with enterprise backend standards
-- Supported AWS deployment activities involving EC2 and S3 integrations
-
-### 🏢 Infosys — Software Engineer *(May 2022 – Aug 2023)*
-**India (Remote)**
-- Implemented backend features in Java 11 + Spring Boot for ACH, RTGS, and banking payment modules within the **Finacle Banking platform**
-- Profiled a frequently called REST endpoint and optimized DB interactions to cut median latency from **220ms → 130ms**
-- Supported Kafka-based order event publishing with producer-side validation and consumer restart handling
-
-### 🏢 Sri Tech — Associate Software Engineer *(Jun 2019 – Apr 2022)*
-**India (Remote)**
-- Resolved concurrency issues in a high-throughput Java order workflow by improving transactional handling and retry mechanisms
-- Worked on PostgreSQL query tuning, indexing, and connection pool configurations for high-volume reporting services
-- Containerized core microservices with Docker and integrated into Jenkins pipelines with blue-green rollout patterns
-
----
-
-## 🚀 Projects
-
-### 🤖 AI-Driven Code Review & PR Analysis Tool *(Currently Building)*
-- AI-powered code review platform using **Java Spring Boot + AWS** to automatically analyze GitHub PRs for bugs, security vulnerabilities, and performance issues
-- Integrated **GitHub Webhooks**, GitHub REST APIs, and **OpenAI/Claude APIs** for structured review insights
-- Cloud-native on AWS: API Gateway, Lambda, DynamoDB, S3, CloudWatch + JWT-based authentication
-
-### 🛒 Microservices E-Commerce Backend
-- Designed microservices architecture with Spring Boot for orders, inventory, and payments with independent deployability
-- Implemented **Apache Kafka** for async order processing with event-driven low-latency message handling
-- Containerized with Docker; achieved **85%+ unit test coverage** with JUnit 5 and Mockito
-
 ---
 
 ## 🎓 Education
