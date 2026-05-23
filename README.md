@@ -73,10 +73,6 @@ I'm a **Senior Java Backend Developer** with **6+ years of experience** building
 
 ---
 
----
-
----
-
 ## 🏆 Certifications
 
 <div align="center">
