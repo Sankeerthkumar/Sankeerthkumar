@@ -75,13 +75,6 @@ I'm a **Senior Java Backend Developer** with **6+ years of experience** building
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year |
-|---|---|---|
-| 🎓 M.S. Computer & Information Science (GPA: 3.75) | Webster University, USA | Aug 2023 – May 2025 |
-| 🎓 B.Tech Mechanical Engineering | Vel Tech Multi Tech (Anna University), India | Jun 2017 – Apr 2020 |
-
 ---
 
 ## 🏆 Certifications
