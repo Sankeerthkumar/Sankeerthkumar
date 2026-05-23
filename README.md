@@ -73,19 +73,6 @@ I'm a **Senior Java Backend Developer** with **6+ years of experience** building
 
 ---
 
-## 🏆 Certifications
-
-<div align="center">
-
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Dev](https://img.shields.io/badge/AWS_Developer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/HashiCorp_Terraform-Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Oracle Java](https://img.shields.io/badge/Oracle_Java_SE_11-Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
