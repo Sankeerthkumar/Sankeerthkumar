@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B+I'm+Sankeerth+Kumar;Senior+Java+Backend+Developer;6%2B+Years+%7C+Fintech+%26+Healthcare+Systems;Spring+Boot+%7C+Kafka+%7C+Microservices+%7C+AWS)](https://git.io/typing-svg)
 
-📍 Frisco, TX &nbsp;|&nbsp; 📧 sankeertheswaravaka@gmail.com &nbsp;|&nbsp; 📞 +1 (669) 609-7472
+📍 Frisco, TX &nbsp;|&nbsp; 📧 eswaravaka.1998@gmail.com &nbsp;|&nbsp; 📞 +1 (213) 861-2084
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankeerth-kumar-a84a89288/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sankeerthkumar.com/)
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Java Backend Developer** with **6+ years of experience** building high-throughput, reliable backend systems for **fintech and healthcare** domains. I specialize in decomposing tightly coupled monoliths into clean Spring Boot microservices, designing event-driven pipelines with Kafka, and ensuring production stability through solid observability and performance engineering.
+I'm a **Senior Java Backend Developer** with **9 years of experience** building high-throughput, reliable backend systems for **fintech and healthcare** domains. I specialize in decomposing tightly coupled monoliths into clean Spring Boot microservices, designing event-driven pipelines with Kafka, and ensuring production stability through solid observability and performance engineering.
 
 - 🔥 Expert in Java 17/11/8, Spring Boot, and microservices architecture with clear service boundaries
 - ⚡ Deep focus on reliability at scale — Kafka consumer lag, PostgreSQL query plans, and Redis caching strategies
