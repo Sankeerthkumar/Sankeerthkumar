@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B+I'm+Eswaravaka;Senior+Java+Backend+Developer;9%2B+Years+%7C+Fintech+%26+Healthcare+Systems;Spring+Boot+%7C+Kafka+%7C+Microservices+%7C+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B+I'm+Eswaravaka;Senior+Java+Backend+Developer;8+%2B+Years+%7C+Fintech+%26+Healthcare+Systems;Spring+Boot+%7C+Kafka+%7C+Microservices+%7C+AWS)](https://git.io/typing-svg)
 
 📍 Frisco, TX &nbsp;|&nbsp; 📧 eswaravaka.1998@gmail.com &nbsp;|&nbsp; 📞 +1 (213) 861-2084
 
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Java Backend Developer** with **9 years of experience** building high-throughput, reliable backend systems for **fintech and healthcare** domains. I specialize in decomposing tightly coupled monoliths into clean Spring Boot microservices, designing event-driven pipelines with Kafka, and ensuring production stability through solid observability and performance engineering.
+I'm a **Senior Java Backend Developer** with **8+ years of experience** building high-throughput, reliable backend systems for **fintech and healthcare** domains. I specialize in decomposing tightly coupled monoliths into clean Spring Boot microservices, designing event-driven pipelines with Kafka, and ensuring production stability through solid observability and performance engineering.
 
 - 🔥 Expert in Java 17/11/8, Spring Boot, and microservices architecture with clear service boundaries
 - ⚡ Deep focus on reliability at scale — Kafka consumer lag, PostgreSQL query plans, and Redis caching strategies
@@ -84,7 +84,7 @@ I'm a **Senior Java Backend Developer** with **9 years of experience** building 
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sankeerthkumar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eswaravaka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -94,7 +94,7 @@ I'm a **Senior Java Backend Developer** with **9 years of experience** building 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sankeerthkumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eswaravaka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -104,9 +104,9 @@ I'm a **Senior Java Backend Developer** with **9 years of experience** building 
 
 ### 🤝 Let's Connect & Build Together!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankeerth-kumar-a84a89288/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Eswaravaka-a84a89288/)
 [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sankeerthkumar.com/)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankeertheswaravaka@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eswaravaka32@gmail.com)
 
 ---
 
