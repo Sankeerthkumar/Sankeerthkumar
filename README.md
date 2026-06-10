@@ -77,8 +77,8 @@ I'm a **Senior Java Backend Developer** with **8+ years of experience** building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sankeerthkumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankeerthkumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eswaravaka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswaravaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
 
 </div>
 
