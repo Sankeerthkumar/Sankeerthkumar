@@ -4,9 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B+I'm+Eswaravaka;Senior+Java+Backend+Developer;8+%2B+Years+%7C+Fintech+%26+Healthcare+Systems;Spring+Boot+%7C+Kafka+%7C+Microservices+%7C+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B+I'm+Eswaravaka;Senior+Java+Backend+Developer;8+%2B+Years+%7C+Fintech+%26+Energy+Systems;Spring+Boot+%7C+Kafka+%7C+Microservices+%7C+AWS)](https://git.io/typing-svg)
 
-📍 Frisco, TX &nbsp;|&nbsp; 📧 eswaravaka.1998@gmail.com &nbsp;|&nbsp; 📞 +1 (213) 861-2084
+📍 Mckinney, TX &nbsp;|&nbsp; 📧 eswaravaka.1998@gmail.com &nbsp;|&nbsp; 📞 +1 (682) 376-3177
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankeerth-kumar-a84a89288/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sankeerthkumar.com/)
