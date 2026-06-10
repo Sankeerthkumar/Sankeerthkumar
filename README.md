@@ -8,7 +8,7 @@
 
 📍 Mckinney, TX &nbsp;|&nbsp; 📧 eswaravaka.1998@gmail.com &nbsp;|&nbsp; 📞 +1 (682) 376-3177
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankeerth-kumar-a84a89288/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswaravaka-s-a84a89288/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sankeerthkumar.com/)
 
 </div>
