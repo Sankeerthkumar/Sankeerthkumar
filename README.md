@@ -91,11 +91,10 @@ I'm a **Senior Java Backend Developer** with **8+ years of experience** building
 ---
 
 ## 🏅 GitHub Trophies
-
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eswaravaka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Eswaravaka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
