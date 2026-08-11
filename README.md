@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sankeerth;Senior+Generative+AI+%2F+ML+Engineer;11%2B+Years+%7C+E-commerce%2C+Banking+%26+Healthcare;Bedrock+%7C+LangGraph+%7C+RAG+%7C+Agentic+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sankeerth;Senior+Generative+AI+%2F+ML+Engineer;8%2B+Years+%7C+E-commerce%2C+Banking+%26+Healthcare;Bedrock+%7C+LangGraph+%7C+RAG+%7C+Agentic+AI)](https://git.io/typing-svg)
 
 📍 Mckinney, TX &nbsp;|&nbsp; 📧 sankeerthkumare@gmail.com &nbsp;|&nbsp; 📞 +1 (214) 297-7140
 
