@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Generative AI / Machine Learning Engineer** with **11+ years of experience** designing, developing, and deploying enterprise AI, Machine Learning, and Generative AI solutions across cloud-native environments. My work spans **e-commerce, banking, SaaS, healthcare, and defense** — building intelligent assistants, agentic workflows, document intelligence, and semantic search systems that run reliably in production.
+I'm a **Senior Generative AI / Machine Learning Engineer** with **8+ years of experience** designing, developing, and deploying enterprise AI, Machine Learning, and Generative AI solutions across cloud-native environments. My work spans **e-commerce, banking, SaaS, healthcare, and defense** — building intelligent assistants, agentic workflows, document intelligence, and semantic search systems that run reliably in production.
 
 - 🤖 Building production Generative AI applications with **AWS Bedrock, Claude, Amazon Nova, and Llama**
 - 🕸️ Designing **agentic workflows** using LangGraph, CrewAI, and Model Context Protocol (MCP)
